@@ -12,8 +12,8 @@
             Circle firstCircle = new Circle(5);
             Circle secondCircle = new Circle(6);
 
-            firstCircle.GetRadius(5);
-            secondCircle.GetRadius(6);
+            firstCircle.GetRadius();
+            secondCircle.GetRadius();
 
 
         }
