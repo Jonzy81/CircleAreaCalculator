@@ -14,8 +14,6 @@
 
             firstCircle.GetRadius();
             secondCircle.GetRadius();
-
-
         }
     }
 }
