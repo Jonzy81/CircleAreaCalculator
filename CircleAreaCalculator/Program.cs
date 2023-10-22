@@ -4,6 +4,8 @@
     {
         static void Main(string[] args)
         {
+            //Jonny Touma Net23 uppgift 05.
+
             //Skapa en ny klass som heter Circle
             //Skapa en konstruktor som tar in radien 
             //Skapa en metod som heter GetCircle och som räknar ut arean på en cirkel 
